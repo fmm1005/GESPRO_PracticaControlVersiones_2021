@@ -42,3 +42,8 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+
+**Incluid debajo el nombre de los miembros del grupo:**
+* [fmm1005](https://github.com/fmm1005) - Francisco Medel Molinero
+* [xlp1004](https://github.com/xlp1004) - Alvaro López Pereda
+* [avg1009](https://github.com/avg1009) - Adolfo Jesús Viñe Ghezzi
