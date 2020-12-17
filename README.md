@@ -44,6 +44,6 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 **Incluid debajo el nombre de los miembros del grupo:**
-* [fmm1005](https://github.com/fmm1005) - Francisco Medel Molinero
-* [xlp1004](https://github.com/xlp1004) - Alvaro López Pereda
-* [avg1009](https://github.com/avg1009) - Adolfo Jesús Viñe Ghezzi
+* [fmm1005](https://github.com/fmm1005) -@author Francisco Medel Molinero
+* [xlp1004](https://github.com/xlp1004) -@author Alvaro López Pereda
+* [avg1009](https://github.com/avg1009) -@author Adolfo Jesús Viñe Ghezzi
